@@ -65,12 +65,14 @@ Sinh viên nộp lại toàn bộ project sau khi đã chạy xong, bao gồm:
 - toàn bộ thư mục outputs
 - ảnh chụp màn hình terminal hoặc output thành công
 
+<img width="851" height="474" alt="image" src="https://github.com/user-attachments/assets/d6c3694e-e5f5-4833-ad58-46db71992236" />
+
 ## Sinh viên cần cập nhật README này
-- Họ tên:
-- MSSV:
-- Lớp:
-- Hệ điều hành:
-- Python version:
-- Torch version:
-- Thiết bị chạy: CPU / GPU
+- Họ tên: Lê Thị Ngọc Bích
+- MSSV: 1671040003
+- Lớp: KHMT 16-01
+- Hệ điều hành: Windows
+- Python version: 3.10
+- Torch version: 2.11.0
+- Thiết bị chạy: CPU
 - Ghi chú lỗi gặp phải khi setup (nếu có):
